@@ -44,8 +44,10 @@ iTerm2 -> Preferences -> Profiles -> Colors -> import -> <YOUR LOCAL PATH TO FIL
 
 ![iTerm2 Preferences with freeCodeCamp Colors](images/iterm2-preferences-colors-freeCodeCamp.png)
 
+## Further customisation
+
 Alternatively you can customise it yourself and then save it by selecting the export option.  
 
 [freeCodeCamp's design style guide](https://design-style-guide.freecodecamp.org/) has more on its brand colors, logo and typography
 
-For a wide selection of color schemes, check out [iterm2colorschemes.com](https://iterm2colorschemes.com/)  
+[iterm2colorschemes.com](https://iterm2colorschemes.com/) is a wide selection of color schemes for iTerm2
