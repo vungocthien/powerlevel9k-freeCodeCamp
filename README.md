@@ -46,6 +46,6 @@ iTerm2 -> Preferences -> Profiles -> Colors -> import -> <YOUR LOCAL PATH TO FIL
 
 Alternatively you can customise it yourself and then save it by selecting the export option.  
 
-freeCodeCamp's style guide has more on its brand colors, logo and typography -   [design-style-guide.freecodecamp.org](https://design-style-guide.freecodecamp.org/)  
+[freeCodeCamp's design style guide](https://design-style-guide.freecodecamp.org/) has more on its brand colors, logo and typography
 
-For a wide selection of color schemes, checkout [iterm2colorschemes.com](https://iterm2colorschemes.com/)  
+For a wide selection of color schemes, check out [iterm2colorschemes.com](https://iterm2colorschemes.com/)  
