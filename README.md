@@ -46,7 +46,7 @@ iTerm2 -> Preferences -> Profiles -> Colors -> import -> <YOUR LOCAL PATH TO FIL
 
 ## Further customisation
 
-Alternatively you can customise it yourself and then save it by selecting the export option.  
+You can customise a color scheme yourself and save it by selecting the export option.  
 
 [freeCodeCamp's design style guide](https://design-style-guide.freecodecamp.org/) has more on its brand colors, logo and typography
 
