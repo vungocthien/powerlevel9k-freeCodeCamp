@@ -15,7 +15,7 @@ POWERLEVEL9K_CUSTOM_FREECODECAMP_FOREGROUND="white"
 
 To use it you need to add this code to your `~/.zshrc`.
 
-## Example zshrc setup
+## Example .zshrc setup
 
 ```sh
 # Customise the Powerlevel9k prompts
