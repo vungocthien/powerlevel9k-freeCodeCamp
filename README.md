@@ -17,7 +17,9 @@ POWERLEVEL9K_CUSTOM_FREECODECAMP_FOREGROUND="white"
 
 Add the freeCodeCamp color scheme by downloading this repo (or just the [freeCodeCamp.itermcolors](freeCodeCamp.itermcolors) file).  
 
-iTerm2 -> Preferences -> Profiles -> Colors -> import -> freeCodeCamp.itermcolors  
+iTerm2 -> Preferences -> Profiles -> Colors -> import -> <YOUR LOCAL PATH TO FILE>freeCodeCamp.itermcolors  
+
+![iTerm2 Preferences with freeCodeCamp Colors](images/terminal-freecodecamp-powerlevel9k.png)
 
 Alternatively you can customise it yourself and then save it by selecting the export option.  
 
